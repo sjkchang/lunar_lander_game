@@ -1,0 +1,78 @@
+﻿  box.cc
+  main.cpp
+  Octree.cpp
+  ofApp.cpp
+  Particle.cpp
+  ParticleEmitter.cpp
+  ParticleSystem.cpp
+  TransformObject.cpp
+  Util.cpp
+c:\users\sjkch\desktop\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myapps\final_proj\src\vector3.h(20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file src\box.cc)
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+c:\users\sjkch\desktop\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myapps\final_proj\src\particlesystem.cpp(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\sjkch\desktop\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myapps\final_proj\src\particlesystem.cpp(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\sjkch\desktop\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myapps\final_proj\src\particlesystem.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\sjkch\desktop\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myapps\final_proj\src\particlesystem.cpp(59): warning C4018: '<': signed/unsigned mismatch
+c:\users\sjkch\desktop\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myapps\final_proj\src\octree.cpp(62): warning C4018: '<': signed/unsigned mismatch
+c:\users\sjkch\desktop\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myapps\final_proj\src\octree.cpp(79): warning C4018: '<': signed/unsigned mismatch
+c:\users\sjkch\desktop\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myapps\final_proj\src\octree.cpp(136): warning C4018: '<': signed/unsigned mismatch
+c:\users\sjkch\desktop\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myapps\final_proj\src\octree.cpp(170): warning C4018: '<': signed/unsigned mismatch
+c:\users\sjkch\desktop\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myapps\final_proj\src\octree.cpp(196): warning C4018: '<': signed/unsigned mismatch
+c:\users\sjkch\desktop\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myapps\final_proj\src\octree.cpp(212): warning C4018: '<': signed/unsigned mismatch
+c:\users\sjkch\desktop\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myapps\final_proj\src\octree.cpp(223): warning C4018: '<': signed/unsigned mismatch
+c:\users\sjkch\desktop\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myapps\final_proj\src\octree.cpp(235): warning C4018: '<': signed/unsigned mismatch
+c:\users\sjkch\desktop\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myapps\final_proj\src\ofapp.cpp(64): warning C4996: 'ofNode::rotate': Use the Deg/Rad version.
+  c:\users\sjkch\desktop\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\libs\openframeworks\3d\ofnode.h(310): note: see declaration of 'ofNode::rotate'
+c:\users\sjkch\desktop\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myapps\final_proj\src\ofapp.cpp(206): warning C4018: '<': signed/unsigned mismatch
+  ofxAssimpAnimation.cpp
+  ofxAssimpMeshHelper.cpp
+  ofxAssimpModelLoader.cpp
+  ofxAssimpTexture.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  ofxBaseGui.cpp
+  ofxButton.cpp
+  ofxColorPicker.cpp
+  ofxGuiGroup.cpp
+  ofxInputField.cpp
+  ofxLabel.cpp
+  ofxPanel.cpp
+  ofxSlider.cpp
+  ofxSliderGroup.cpp
+  ofxToggle.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+c:\users\sjkch\desktop\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxinputfield.cpp(276): warning C4018: '<': signed/unsigned mismatch
+  c:\users\sjkch\desktop\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxinputfield.cpp(265): note: while compiling class template member function 'void ofxInputField<float>::moveCursor(int)'
+  c:\users\sjkch\desktop\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxinputfield.cpp(368): note: see reference to function template instantiation 'void ofxInputField<float>::moveCursor(int)' being compiled
+  c:\users\sjkch\desktop\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxinputfield.cpp(805): note: see reference to class template instantiation 'ofxInputField<float>' being compiled
+     Creating library bin\final_proj_debug.lib and object bin\final_proj_debug.exp
+  final_proj.vcxproj -> C:\Users\sjkch\Desktop\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myApps\final_proj\bin\final_proj_debug.exe
+  
+  	                   2	C:\Users\sjkch\Desktop\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\libs\fmod\lib\vs\Win32\
+  	  *EXTRA File 		 3385856	C:\Users\sjkch\Desktop\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myApps\final_proj\bin\assimp32.dll
+  	  *EXTRA File 		 4161536	C:\Users\sjkch\Desktop\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myApps\final_proj\bin\assimp64.dll
+  	    New File  		 1544704	C:\Users\sjkch\Desktop\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\libs\fmod\lib\vs\Win32\fmod.dll
+  	    New File  		 1733120	C:\Users\sjkch\Desktop\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\libs\fmod\lib\vs\Win32\fmodL.dll
+  
+  	                   1	C:\Users\sjkch\Desktop\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 3385856	C:\Users\sjkch\Desktop\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myApps\final_proj\bin\assimp32.dll
+  	  *EXTRA File 		 4161536	C:\Users\sjkch\Desktop\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myApps\final_proj\bin\assimp64.dll
+  	  *EXTRA File 		 1544704	C:\Users\sjkch\Desktop\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myApps\final_proj\bin\fmod.dll
+  	  *EXTRA File 		 1733120	C:\Users\sjkch\Desktop\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myApps\final_proj\bin\fmodL.dll
+  	    New File  		 6018560	C:\Users\sjkch\Desktop\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\libs\FreeImage\lib\vs\Win32\FreeImage.dll
